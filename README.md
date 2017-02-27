@@ -1,4 +1,4 @@
 # hello-world
 my 1st Github repo.
 
-My 1st eedit on Github. Hooray!
+My 1st edit on Github. Hooray!
